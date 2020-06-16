@@ -1,0 +1,65 @@
+table, th, td {
+            
+    margin: 10px ;
+    position:relative;
+    /* border: 1px solid black; */
+    border-collapse: collapse;
+}
+th, td {
+    text-align: left;
+    padding: 15px;
+    
+}
+table {
+    margin: 0 auto;
+}
+
+.table{
+    position: relative;
+    top: 100px;
+    width: 100%;
+    display: block;
+}
+.table:after{
+    content: "";
+    display: block;
+    clear: both;
+}
+.top{
+    font-size: x-large;
+    text-align: center;
+}
+.writer{
+    height: 30px;
+    border-radius: 5px;
+    width: 100px;
+}
+.email{
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+}
+.home{
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+}
+.title{
+    height: 30px;
+    border-radius: 5px;
+    width: 150px;
+}
+.contents{
+
+    border-radius: 5px;
+    width: 600px;
+    height: 200px;
+    float: left;
+    
+}
+    
+.pw{
+    height: 30px;
+    border-radius: 5px;
+    width: 100px;
+}
