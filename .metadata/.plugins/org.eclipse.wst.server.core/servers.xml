@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="14">
-    <list key="modules" value0="JSP::org.eclipse.jst.jee.server:JSP::jst.web::3.1" value1="project::org.eclipse.jst.jee.server:project::jst.web::3.1" value2="hello::org.eclipse.jst.jee.server:hello::jst.web::3.1" value3="database::org.eclipse.jst.jee.server:database::jst.web::3.1" value4="daodto::org.eclipse.jst.jee.server:daodto::jst.web::3.1" value5="dbcp::org.eclipse.jst.jee.server:dbcp::jst.web::3.1" value6="member::org.eclipse.jst.jee.server:member::jst.web::3.1" value7="frontcontroller::org.eclipse.jst.jee.server:frontcontroller::jst.web::3.1" value8="bigdata::org.eclipse.jst.jee.server:bigdata::jst.web::3.1" value9="eljstl::org.eclipse.jst.jee.server:eljstl::jst.web::3.1"/>
-  </server>
-</servers>

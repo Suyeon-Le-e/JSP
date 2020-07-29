@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Fri May 15 14:29:35 KST 2020
-org.eclipse.jst.jee.server\:/binary\:D\:\\bigdata\\jsp\\jspws\\bigdata\\WebContent\\fileupload\\member.war=fileupload/member.war
